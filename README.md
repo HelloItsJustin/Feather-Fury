@@ -1,9 +1,9 @@
 # Feather-Fury
-🪶 Feather Fury – Steampunk Flappy Bird 🎮⚙️
+🪶 Feather Fury – Flappy Bird 🎮⚙️
 
-Feather Fury is a fully responsive, side-scrolling Steampunk Flappy Bird remake built from scratch using Vanilla JavaScript and HTML5 Canvas.
-Inspired by the modern classic Flappy Bird, this version adds a fresh steampunk twist with animated sprites, mechanical obstacles, and an endless scrolling background.
-Based on the awesome step-by-step tutorial by Frank's Laboratory (YouTube), this project is perfect for beginners looking to learn core game development concepts that can be reused in countless projects.
+Feather Fury is a fully responsive, side-scrolling Flappy Bird remake built from scratch using Vanilla JavaScript and HTML5 Canvas.
+Inspired by the modern classic Flappy Bird, this version adds a fresh twist with animated sprites, mechanical obstacles, and an endless scrolling background.
+This project is perfect for beginners looking to learn core game development concepts that can be reused in countless projects.
 
 ✨ Features
 
