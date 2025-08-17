@@ -1,12 +1,23 @@
-* {
+html, body {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+  overflow: hidden; /* no scrollbars */
+  font-family: "Bungee Inline", "Titillium Web", sans-serif;
+  font-weight: 200;
+  font-style: normal;
 }
+
 #canvas1 {
-  border: 5px solid black;
+  display: block;
+  border: 5px solid black; /* keep if you want outline */
   position: absolute;
-  top:0;
+  top: 0;
   left: 0;
-  background: blue ;
+  width: 100vw;
+  height: 100vh;
+}
+.assets {
+  display: none; /* hide assets */
 }
