@@ -35,7 +35,7 @@
 - Framework-free, pure JS code split for clarity: `main.js`, `player.js`, `obstacle.js`, etc.
 - Easily swap backgrounds or characters for a custom cyberpunk experience.
 
-***
+*** 
 
 ## 🛠️ Getting Started
 
