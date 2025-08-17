@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Game</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <canvas id="canvas1"></canvas>
+
+  <div class="assets">
+    <img id="background" src="assets\images\background_single.png">
+    <img id="player_fish" src="assets\images\player_fish.png">
+    <img id="smallGears" src="assets\images\smallGears.png">
+    <audio id="charge" src="assets/sounds/charge.mp3"></audio>
+    <audio id="flap1" src="assets/sounds/flap1.mp3"></audio>
+    <audio id="flap2" src="assets/sounds/flap2.mp3"></audio>
+    <audio id="flap3" src="assets/sounds/flap3.mp3"></audio>
+    <audio id="flap4" src="assets/sounds/flap4.mp3"></audio>
+    <audio id="flap5" src="assets/sounds/flap5.mp3"></audio>
+    <audio id="win" src="assets/sounds/win.mp3"></audio>
+    <audio id="loose" src="assets/sounds/lose.mp3"></audio>
+  </div>
+  
+  <script src="assets/scripts/audio.js"></script>
+  <script src="assets/scripts/background.js"></script>
+  <script src="assets/scripts/player.js"></script>
+  <script src="assets/scripts/obstacle.js"></script>
+  <script src="assets/scripts/main.js"></script>
+</body>
+</html>
