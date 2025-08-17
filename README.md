@@ -1,6 +1,6 @@
 # Feather Fury
 
-**Feather Fury** is a cyberpunk-inspired, side-scrolling action game built entirely in vanilla JavaScript and HTML5 Canvas. Glide, dodge, and dash through a neon cityscape in a fast-paced race against time. This project is a from-scratch remake using best practices and advanced patterns from Frank’s Laboratory’s “Build Side-Scrolling Games with JavaScript” tutorial, redesigned with a futuristic pixel-art vibe and original cybernetic obstacles.
+**Feather Fury** is a cyberpunk-inspired, side-scrolling action game built entirely in vanilla JavaScript and HTML5 Canvas. Glide, dodge, and dash through a neon cityscape in a fast-paced race against time. This project is a from-scratch remake using best practices and advanced patterns, redesigned with a futuristic pixel-art vibe and original cybernetic obstacles.
 
 ***
 
