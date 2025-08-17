@@ -9,6 +9,7 @@ html, body {
   font-style: normal;
 }
 
+
 #canvas1 {
   display: block;
   border: 5px solid black; /* keep if you want outline */
